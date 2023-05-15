@@ -1,7 +1,8 @@
-package ru.spring.MVC.dao;
+package ru.spring.mvc.dao;
 
 import org.springframework.stereotype.Repository;
-import ru.spring.MVC.model.Car;
+import ru.spring.mvc.model.Car;
+import ru.spring.mvc.model.Car;
 
 import java.util.ArrayList;
 import java.util.List;

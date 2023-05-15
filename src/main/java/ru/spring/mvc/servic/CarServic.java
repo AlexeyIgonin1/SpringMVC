@@ -1,6 +1,7 @@
-package ru.spring.MVC.servic;
+package ru.spring.mvc.servic;
 
-import ru.spring.MVC.model.Car;
+import ru.spring.mvc.model.Car;
+import ru.spring.mvc.model.Car;
 
 import java.util.List;
 

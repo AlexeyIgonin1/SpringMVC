@@ -1,6 +1,7 @@
-package ru.spring.MVC.dao;
+package ru.spring.mvc.dao;
 
-import ru.spring.MVC.model.Car;
+import ru.spring.mvc.model.Car;
+import ru.spring.mvc.model.Car;
 
 import java.util.List;
 

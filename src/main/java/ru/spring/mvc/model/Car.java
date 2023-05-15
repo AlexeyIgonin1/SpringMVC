@@ -1,4 +1,4 @@
-package ru.spring.MVC.model;
+package ru.spring.mvc.model;
 
 
 public class Car {

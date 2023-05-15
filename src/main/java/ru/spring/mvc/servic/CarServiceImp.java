@@ -1,8 +1,10 @@
-package ru.spring.MVC.servic;
+package ru.spring.mvc.servic;
 
 import org.springframework.stereotype.Service;
-import ru.spring.MVC.dao.CarDAO;
-import ru.spring.MVC.model.Car;
+import ru.spring.mvc.dao.CarDAO;
+import ru.spring.mvc.model.Car;
+import ru.spring.mvc.dao.CarDAO;
+import ru.spring.mvc.model.Car;
 
 import java.util.List;
 
